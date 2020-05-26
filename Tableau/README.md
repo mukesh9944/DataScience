@@ -1,6 +1,6 @@
 # Data Science
 ## Tableau
-Tableau is a very powerful **data visualization tool** that helps to analyze the data. This connects to any data sources(**Excel, CSV, PDF and almost all databases**). We can easily creae interactive and appropriate visualizations in form of **dashboards**, **worksheets** and **stories** to gain business insights.
+Tableau is a very powerful **data visualization tool** that helps to analyze the data. This connects to any data sources(**Excel, CSV, PDF and almost all databases**). We can easily create interactive and appropriate visualizations in form of **dashboards**, **worksheets** and **stories** to gain business insights.
 ## Tableau Basics: Your First Barchart
 |Data|Conceptual|Visualisation|
 |--|--|--|
